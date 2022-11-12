@@ -33,12 +33,12 @@
 }
 
 #equal {
-    background-color: mediumseagreen;
-    color: white;
+    background-color: navy;
+    color: aquamarine;
 }
 
 .button:hover {
-    background-color: black;
-    color: white;
+    background-color: navy;
+    color: aquamarine;
     transition: 0.5s ease-in-out;
 }
