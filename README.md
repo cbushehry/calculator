@@ -11,6 +11,8 @@ Simple calculator built with HTML, CSS, JavaScript
  * ( Parenthesis )
  * Error! warning
 
+ ![](assets/images/calculator.jpg)
+
 ## 3. Credits / Contact
 This application was created by Cameron Bushehry
 
