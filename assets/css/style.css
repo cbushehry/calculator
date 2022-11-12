@@ -31,3 +31,14 @@
     font-size: 25px;
     cursor: pointer;
 }
+
+#equal {
+    background-color: mediumseagreen;
+    color: white;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+    transition: 0.5s ease-in-out;
+}
